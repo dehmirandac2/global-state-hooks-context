@@ -1,0 +1,3 @@
+export const SET_TECH_LIST = "SET_TECH_LIST";
+export const ADD_TO_TECH_LIST = "ADD_TO_TECH_LIST";
+export const REMOVE_FROM_TECH_LIST = "REMOVE_FROM_TECH_LIST";
